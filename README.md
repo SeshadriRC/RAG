@@ -60,3 +60,6 @@ Launch the Streamlit application:
 
 
 <img width="1227" height="415" alt="image" src="https://github.com/user-attachments/assets/da255479-3adb-48e2-9d3e-3da4aa60998a" />
+
+<img width="1522" height="733" alt="image" src="https://github.com/user-attachments/assets/3e7cc95c-cbd8-42a4-b21d-5cbb3e0e84c2" />
+
